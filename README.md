@@ -1,2 +1,2 @@
-# MY-PROJECT IN SCHOOL TEAM GRAPHITE
+# WEB APPLICATION
 https://graphite2k23.web.app/
